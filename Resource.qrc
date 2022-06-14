@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/About.png</file>
+        <file>img/Break.png</file>
+        <file>img/Check.png</file>
+        <file>img/Close.png</file>
+        <file>img/Copy.png</file>
+        <file>img/Cut.png</file>
+        <file>img/New.png</file>
+        <file>img/Open.png</file>
+        <file>img/Paste.png</file>
+        <file>img/Redo.png</file>
+        <file>img/Save.png</file>
+        <file>img/Save-as.png</file>
+        <file>img/Undo.png</file>
+    </qresource>
+</RCC>
